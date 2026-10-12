@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MemecoinMonitor</title>
+        <item>
+            <title>0.23.3</title>
+            <pubDate>Mon, 12 Oct 2026 19:50:52 +0000</pubDate>
+            <sparkle:version>0.23.3</sparkle:version>
+            <sparkle:shortVersionString>0.23.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/daangoed/monitor-updates/releases/download/v0.23.3/MemecoinMonitor-macOS-arm64-0.23.3.app.zip" length="29333940" type="application/octet-stream" sparkle:edSignature="ZSidFR6nbvcjSFF78EXZW+Ez2lS6gHoSbRExzFL/FY4R7AKBLS2+lkeE1iNW7rAt1f2glcS8Qh3Ozr7jeSTfCA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 1F6sj5bYO4kng3zBy54k+79O4v2QxsbkGN+w+sDWXx24yKvRL2WK9yXfFBmqVDEfhoJzrpU6sJPCiIkEBe76Aw==
+length: 1167
+-->
