@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MemecoinMonitor</title>
         <item>
-            <title>0.23.7</title>
-            <pubDate>Wed, 14 Oct 2026 10:44:25 +0000</pubDate>
-            <sparkle:version>0.23.7</sparkle:version>
-            <sparkle:shortVersionString>0.23.7</sparkle:shortVersionString>
+            <title>0.23.8</title>
+            <pubDate>Wed, 14 Oct 2026 12:09:32 +0000</pubDate>
+            <sparkle:version>0.23.8</sparkle:version>
+            <sparkle:shortVersionString>0.23.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/daangoed/monitor-updates/releases/download/v0.23.7/MemecoinMonitor-macOS-arm64-0.23.7.app.zip" length="29637996" type="application/octet-stream" sparkle:edSignature="D6Z5bE8p+nXTyYzK+E1iCsK4L/S2EV4Zn7eDhUDgAL4MazYqvAbAp/hKaPQnJD2FiCTSjg/PwhIC8VKh89NzDA=="></enclosure>
+            <enclosure url="https://github.com/daangoed/monitor-updates/releases/download/v0.23.8/MemecoinMonitor-macOS-arm64-0.23.8.app.zip" length="29639713" type="application/octet-stream" sparkle:edSignature="1cf7XxyRsu/p0qjcnuRj4SVIgoZI6fDziyrxygIXW0dv+77NXp24CAryWHWR0zXF9HQBSsfvXT0rm9bygGLXAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OgPsxFBUFWwgO07hoeH1rc4z9aFQi9LUWycj3WADiImRtulj82EaWshVbuXmlnWvKOK6TQdl/qnZhyxfMtlMBg==
+edSignature: TcYX3O56OgI0XRJJ2NIzTwnvapvx0d7St4MkAcJvBlpqpz+2XdaSbPID/aCOkOMWzSo4Ng8bXR18+o47bNnWCQ==
 length: 1167
 -->
